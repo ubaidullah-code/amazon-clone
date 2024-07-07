@@ -1,0 +1,46 @@
+main{
+    
+ text-align: center;
+ margin-bottom: 30px;
+}
+.card{
+    border: 4px solid rgb(150, 78, 78);
+    
+
+    padding: 10px;
+    margin: 0px 30Vw 0px 30vw;
+}
+.container{
+    margin-top: 12px;
+    margin-bottom: 20px;
+}
+input{
+   
+   text-align: center;
+}
+h2{
+    font-size: 28px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    padding: 10px;
+}
+#but{
+    margin-top: 6px;
+    padding: 9px;
+    color: black;
+    text-align: center;
+    border: none;
+    background-color: #ffd814;
+    text-decoration: none;
+    border-radius: 6px;
+    height: 40px;
+}
+.pra{
+    margin-top: 20px;
+    font-size: 12px;
+
+}
+.help{
+    text-align: left;
+    margin-bottom: 30px;
+}
